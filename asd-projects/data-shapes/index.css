@@ -1,7 +1,7 @@
 #board {
   width: 400px;
   margin: auto;
-  border: silver ridge 4px;
+  border: #132bde ridge 4px;
 }
 
 #info-bar {
@@ -16,8 +16,8 @@
   width: 400px;
   height: 400px;
   background: black;
-  border-top: silver ridge 4px;
-  border-bottom: silver ridge 4px;
+  border-top: #b60cdc ridge 4px;
+  border-bottom: #b90ee0 ridge 4px;
 }
 
 #button-box {
